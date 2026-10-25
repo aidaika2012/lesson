@@ -1,0 +1,23 @@
+*
+    
+
+
+
+
+img{
+    width: 769px;
+    height: 668px;
+    border: 3px solid rgb(0, 200, 255);
+    border-radius: 7px;
+    background-color: bisque;
+    box-shadow:  0 18px 8px rgb(255, 0, 68);
+    
+}
+
+image{
+    color: black;
+    scrollbar-width: 144px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: ;
+    image-rendering: auto;
+}
